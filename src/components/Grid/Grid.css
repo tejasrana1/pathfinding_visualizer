@@ -1,0 +1,35 @@
+.divColumn{
+    height: 20px;
+    width: 20px;
+    background-color: pink;
+    display: inline-block;
+    margin-right: 1px;
+    padding: 0;
+    }
+    
+    .wallElement{
+      background-color: black;
+    }
+
+    .visitedElement{
+      background-color: aqua;
+    }
+
+    .startElement{
+      background-color: red;
+    }
+
+    .endElement{
+      background-color: blue;
+    }
+    .wayElement{
+      transition: 600ms;
+      background-color: yellow !important;
+    }
+    
+    .divRow{
+      margin-bottom: 1px;
+      padding: 0;
+      height: 20px;
+    }
+    
